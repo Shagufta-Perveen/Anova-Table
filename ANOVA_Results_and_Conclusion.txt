@@ -1,0 +1,22 @@
+
+Results and Conclusion
+
+Results
+
+One-Way ANOVA: Age and Preference for MAR (A3)
+A one-way ANOVA was conducted to examine whether participants’ age significantly influenced their preference for mobile augmented reality (MAR) applications over traditional media (books, brochures, etc.). The results indicated that the effect of age was not statistically significant, F(4, 20) = 1.42, p = 0.265.
+
+However, Levene’s test for homogeneity of variances was significant (p = 0.004), indicating a violation of the assumption of equal variances. Despite this, the overall differences in mean preference scores across age groups did not reach statistical significance.
+
+Two-Way ANOVA: Age and Mobile Usage on Learning (A2)
+A two-way ANOVA was performed using General Linear Model (GLM) to evaluate the combined effect of age and mobile user status (converted to numeric) on participants' agreement with the statement: “The MAR app helps me learn folklore stories informally” (A2).
+
+The results showed that neither the main effects of age (F = 0.75, p = 0.573) nor mobile usage status (F ≈ 0.00, p = 1.000), nor the interaction between the two (F = 0.36, p = 0.834) were statistically significant.
+
+Conclusion
+
+The statistical analyses revealed that there were no significant effects of age or mobile user status on students’ responses related to their preference for MAR over traditional media or the perceived effectiveness of MAR for informal learning of folklore stories. While these findings were not statistically significant, they offer insightful trends that could guide future research.
+
+Given the small sample size (n = 25) and observed variance among age groups, future studies are recommended with larger and more diverse populations to better understand the impact of age and technology usage on learning with AR.
+
+In summary, although statistical significance was not observed, the descriptive data suggest that MAR applications may still hold promise as an engaging and informal tool for digital storytelling in educational contexts.
